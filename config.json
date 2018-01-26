@@ -1,0 +1,6 @@
+{
+    "project": "SVN本地项目路径", 
+    "svnusername": "SVN用户名", 
+    "svnpassword": "SVN密码", 
+    "revert": true
+}
